@@ -1,0 +1,107 @@
+h4{
+  color: #FFFFFF;
+  background-color: #FF8C00;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 50px;
+  padding: 20px;
+  height: 50px;
+  width: 1300px;
+  display: inline-block;
+}
+
+
+.start{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 30%;
+  padding: 20px;
+  height: 50px;
+  width: 1300px;
+  display: block;
+}
+.start:hover{
+  background-color: #A9A9A9;
+  color: #000000;
+}
+
+
+
+
+.me{
+  background-color: #A9A9A9;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 50px;
+  padding: 20px;
+  height: 50px;
+  width: 1300px;
+  display: block;
+}
+.me:hover{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}
+
+
+
+.port{
+  background-color: #A9A9A9;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 50px;
+  padding: 20px;
+  height: 50px;
+  width: 1300px;
+  display: block;
+  }
+.port:hover{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}
+
+
+
+.contact{
+  background-color: #A9A9A9;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 50px;
+  padding: 20px;
+  height: 50px;
+  width: 1300px;
+  display: block;
+}
+.contact:hover{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}
+
+
+
+.news{
+  background-color: #A9A9A9;
+  padding: 20px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  height: 50px;
+  width: 1300px;
+  display: block;
+  }
+.news:hover{
+  background-color:#FF8C00;
+  color: #FFFFFF;
+}

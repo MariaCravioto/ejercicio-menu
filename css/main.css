@@ -1,0 +1,20 @@
+
+.vertical{
+  height: 600px;
+  width: 600px;
+  padding-top: 60px;
+  float: left;
+}
+.vertical:hover{
+background-color: #DDA0DD;
+}
+
+.horizontal{
+  height: 600px;
+  width: 600px;
+  padding-top: 40px;
+  float: right;
+}
+.horizontal:hover{
+  transform: rotate(-7deg);
+}
